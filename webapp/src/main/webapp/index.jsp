@@ -1,3 +1,6 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h2> Deploying on Kubernetes </h2>
-<h3> One last test </h3>
+<h1> Hello, Welcome Myself Amol Kalaskar !!! </h1>
+<h2> This is DevOps Project 4 </h2>
+<h3> Git </h3>
+<h3> Jenkins </h3>
+<h3> Ansible </h3>
+<h3> Docker </h3>
